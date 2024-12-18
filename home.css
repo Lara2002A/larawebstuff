@@ -36,6 +36,7 @@ nav {
     background-color: #de96ff;
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
+    left: 0;
     width: 100%; /* Full width */
 }
 
@@ -56,4 +57,8 @@ nav a {
 
 img {
     width: 60%;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
 }
