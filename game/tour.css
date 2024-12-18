@@ -67,7 +67,7 @@ h5 {
 
 
   .index {
-    background-image: url(data/welcome.png);
+    background-image: url(../img/data/welcome.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: rgb(0, 0, 0);
@@ -86,7 +86,7 @@ button {
 .choice1 {
 
     background-color: black;
-    background-image: url(data/1.png);
+    background-image: url(../img/data/1.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 150px auto 0px;
@@ -105,7 +105,7 @@ button {
 .choice2A {
 
     background-color: black;
-    background-image: url(data/2A.png);
+    background-image: url(../img/data/2A.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 150px auto 0px;
@@ -122,7 +122,7 @@ button {
 .choice2B {
 
     background-color: black;
-    background-image: url(data/2B.png);
+    background-image: url(../img/data/2B.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 150px auto 0px;
@@ -139,7 +139,7 @@ button {
 .choice3A {
 
     background-color: black;
-    background-image: url(data/3A.png);
+    background-image: url(../img/data/3A.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 150px auto 0px;
@@ -156,7 +156,7 @@ button {
 .choice3B {
 
     background-color: black;
-    background-image: url(data/3B.png);
+    background-image: url(../img/data/3B.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 150px auto 0px;
@@ -173,7 +173,7 @@ button {
 .choice4A {
 
     background-color: black;
-    background-image: url(data/4A.png);
+    background-image: url(../img/data/4A.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 150px auto 0px;
@@ -190,7 +190,7 @@ button {
 .choice4B {
 
     background-color: black;
-    background-image: url(data/4B.png);
+    background-image: url(../img/data/4B.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 150px auto 0px;
@@ -207,7 +207,7 @@ button {
 .choice5A {
 
     background-color: black;
-    background-image: url(data/5A.png);
+    background-image: url(../img/data/5A.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 150px auto 0px;
@@ -224,7 +224,7 @@ button {
 .choice5B {
 
     background-color: black;
-    background-image: url(data/5B.png);
+    background-image: url(../img/data/5B.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 150px auto 0px;
@@ -242,7 +242,7 @@ button {
 .choice6A {
 
     background-color: black;
-    background-image: url(data/6A.png);
+    background-image: url(../img/data/6A.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 150px auto 0px;
@@ -260,7 +260,7 @@ button {
 .choice6B {
 
     background-color: black;
-    background-image: url(data/6B.png);
+    background-image: url(../img/data/6B.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 150px auto 0px;
@@ -276,7 +276,7 @@ button {
 
 
 .active {
-    background-image: url(data/abc.png);
+    background-image: url(../img/data/abc.png);
     background-repeat: no-repeat;
     background-size: cover;
 

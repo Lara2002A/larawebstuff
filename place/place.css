@@ -28,7 +28,7 @@ a:link, a:visited {
 
 body {
     background-color: black;
-    background-image: url(moon.jpg);
+    background-image: url(../img/moon.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: rgb(151, 0, 0);
@@ -40,7 +40,7 @@ h1 {
 }
 
 .active {
-    background-image: url(sunset.jpg);
+    background-image: url(../img/sunset.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: rgb(201, 133, 237);
