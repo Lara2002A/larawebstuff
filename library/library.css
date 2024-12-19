@@ -7,6 +7,12 @@ html {
 
 }
 
+body {
+    background-image: url(../img/star.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
 
 h1 {
     color: #990000;
@@ -67,6 +73,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .bookshelfcss {
     background-color: black;
-    background-image: url(../img/moon.jpg);
+    background-image: url(../img/star.jpg);
     background-repeat: no-repeat;
     background-size: cover;}
