@@ -53,3 +53,14 @@ h1 {
     background-repeat: no-repeat;
 } */
  
+
+.home {
+    background-color: #a288ff;
+    color: rgb(198, 255, 190);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    bottom: 2%;
+    left: 2%;
+    position: fixed;
+}

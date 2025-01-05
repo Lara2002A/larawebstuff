@@ -7,9 +7,10 @@ html {
 
 }
 
+
 body {
     background-color: black;
-    background-image: url(../../img/white.jpg);
+    background-image: url(../../img/window.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -17,7 +18,7 @@ body {
 
 
 h1 {
-    color: #990000;
+    color: #42ff7b;
     text-align: center;
     font-size: 50px;
     font-family:sans-serif;
@@ -30,7 +31,6 @@ button {
 
 nav {
     overflow: hidden;
-    background-color: #de96ff;
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
     left: 0;
@@ -49,7 +49,7 @@ nav a {
     font-size: 20px;
     font-weight: bold;
     font-family: 'Exo', sans-serif;
-    color: #990000;
+    color: #42ff7b;
     }
 
 img {
@@ -58,15 +58,4 @@ img {
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin-top: 2.5%;
     margin-bottom: 2.5%;
-}
-
-.home {
-    background-color: #a288ff;
-    color: rgb(198, 255, 190);
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
-    bottom: 2%;
-    left: 2%;
-    position: fixed;
 }
