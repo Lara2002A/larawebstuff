@@ -12,7 +12,7 @@ html {
 
 body {
     background-color: black;
-    background-image: url(img/moon.jpg);
+    background-image: url(../img/salmonpic.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -60,4 +60,12 @@ img {
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin-top: 2.5%;
     margin-bottom: 2.5%;
+}
+
+.shrimpcss {
+    background-image: url(../img/shrimp.jpg);
+}
+
+.charccss {
+    background-image: url(../img/charc.jpg);
 }
