@@ -9,21 +9,21 @@ html {
 }
 
 
-  a:link, a:visited {
+.button a:link, .button a:visited {
     background-color: #a288ff;
     color: rgb(198, 255, 190);
     padding: 14px 25px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-  }
+}
   
-  a:hover, a:active {
+.button a:hover, .button a:active {
     background-color: rgb(244, 96, 255);
 }
 
 
-  h1 {
+h1 {
     display: table; /* keep the background color wrapped tight */
     margin: 0px auto 0px auto; /* keep the table centered */
     padding:3px;
@@ -310,4 +310,15 @@ button {
     background-color: #6a40ff;
     border-color: #ccadff;
     color: #40ffcf;
+}
+
+.home {
+    background-color: #a288ff;
+    color: rgb(198, 255, 190);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    bottom: 2%;
+    left: 2%;
+    position: fixed;
 }

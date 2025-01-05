@@ -61,3 +61,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin-top: 2.5%;
     margin-bottom: 2.5%;
 }
+
+.home {
+    background-color: #a288ff;
+    color: rgb(198, 255, 190);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    bottom: 2%;
+    left: 2%;
+    position: fixed;
+}
