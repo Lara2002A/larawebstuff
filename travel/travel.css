@@ -13,6 +13,7 @@ body {
     background-image: url(../img/starry.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    color: rgb(255, 255, 255);
 }
 
 
@@ -50,12 +51,29 @@ nav a {
     font-weight: bold;
     font-family: 'Exo', sans-serif;
     color: #42ff7b;
-    }
-
-img {
-    width: 60%;
 }
+
+
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin-top: 2.5%;
     margin-bottom: 2.5%;
+}
+
+.mainecss {
+    background-image: url(../img/star.jpg);
+
+}
+
+.olympiccss {
+    background-image: url(../img/dapple.jpg);
+}
+.home {
+    background-color: #a288ff;
+    color: rgb(198, 255, 190);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    bottom: 2%;
+    left: 2%;
+    position: fixed;
 }
